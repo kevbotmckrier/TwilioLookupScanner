@@ -1,0 +1,5 @@
+Requirement already satisfied (use --upgrade to upgrade): twilio in /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages
+Requirement already satisfied (use --upgrade to upgrade): pysocks in /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages (from twilio)
+Requirement already satisfied (use --upgrade to upgrade): six in /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages (from twilio)
+Requirement already satisfied (use --upgrade to upgrade): httplib2>=0.7 in /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages (from twilio)
+Requirement already satisfied (use --upgrade to upgrade): pytz in /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages (from twilio)
